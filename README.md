@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Lu
+
+### Summary
+
+Accomplished Software Engineer and Cloud Architect with over 15 years of experience designing, developing, and deploying scalable systems across diverse industries. Proven expertise in building data platforms, cloud-native microservices, and mobile solutions that enhance performance, security, and operational efficiency.
 
 <!--
 **luilver/luilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
